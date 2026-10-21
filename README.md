@@ -168,7 +168,9 @@ Ready to grow your music career with real listeners?
 - **Curator & Creator Hub**: [soundreach.me/apply](https://soundreach.me/apply)
 - **Pricing & Budgets**: [soundreach.me/pricing](https://soundreach.me/pricing)
 - **Support & Help Center**: [soundreach.me/help](https://soundreach.me/help)
-- **Terms & Privacy**: [soundreach.me/terms](https://soundreach.me/terms)
+- **Legal Terms of Service**: [terms.md](terms.md) • [soundreach.me/terms](https://soundreach.me/terms)
+- **Privacy Policy**: [privacy.md](privacy.md)
+- **Changelog & Public Notice**: [changelog.md](changelog.md)
 
 <p align="center">
   <sub>© SoundReach.me — Fueling the next generation of independent music.</sub>
