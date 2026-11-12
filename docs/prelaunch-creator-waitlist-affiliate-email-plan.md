@@ -83,3 +83,17 @@ This document records product and outreach decisions only. It does **not** mean 
 **Next implementation decisions:** Choose the exact qualification threshold and founding window; define whether the badge is permanent; design the badge and page; add consent and profile visibility controls; add an admin verification workflow; and update launch communications once criteria are finalized.
 
 **Status:** Product concept recorded in documentation; the badge and page have not been built.
+
+## Early-bird creator eligibility exceptions (proposed)
+
+**Default SoundReach.me creator threshold:** 30,000 followers, as proposed by the owner. This is a **SoundReach.me policy proposal**, distinct from Playlist Push's independent requirements.
+
+**Launch exception:** Allow selected early-bird applicants below 30,000 followers to be manually reviewed for SoundReach.me onboarding. Review authentic engagement, content quality, audience fit, consistency, and account integrity rather than follower count alone. An exception grants **consideration**, not automatic approval or guaranteed paid campaigns.
+
+**Founder recognition:** Eligible launch contributors receive a visible **Founding Creator badge next to their display name** and, with opt-in, a profile on the **Wall of Founders**. The badge and recognition are separate from the eligibility exception: an early application alone does not automatically confer either.
+
+**Potential founding benefits:** priority access to launch onboarding, early campaign notifications, and recognition. Do not promise exclusive earnings, priority allocation of paid campaigns, or permanent exceptions until product rules are approved.
+
+**Open decisions:** Define the early-bird window, number of exceptions (if capped), minimum engagement/quality review rubric, badge eligibility and permanence, and whether exceptions persist after launch. Explain these clearly before public promotion.
+
+**Important separation:** SoundReach.me cannot waive or alter Playlist Push's 30,000-follower requirement or independent vetting. Do not advertise SoundReach.me's early-bird exceptions as applicable to the affiliate referral platform.
