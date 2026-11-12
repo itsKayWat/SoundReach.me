@@ -66,3 +66,20 @@ We'll email you when SoundReach.me is ready for early access.
 ## Boundaries
 
 This document records product and outreach decisions only. It does **not** mean that email infrastructure, automation, tracking, or any affiliate integration has been coded or deployed. Launch timing is an estimate, not a commitment.
+
+## Wall of Founders — dedicated recognition page (approved concept)
+
+**Name:** Wall of Founders (not “Wall of Fame”). Create a dedicated public page on SoundReach.me celebrating creators who actually help launch the platform.
+
+**Proposed recognition:**
+- A **Founding Creator** badge displayed on eligible creator profiles.
+- A permanent **Wall of Founders** page showcasing opted-in founding creators with display name/handle, profile image (with permission), creator profile link, and optional short introduction.
+- An optional early-adopter label and priority invitation to explore the platform at launch, without guaranteeing campaign approval, assignments, or earnings.
+
+**Eligibility distinction:** Joining the waitlist or clicking a Playlist Push affiliate link alone does **not** earn a place on the Wall of Founders. The intended audience is creators who genuinely **launch with SoundReach.me**. Suggested qualifying action: complete onboarding during the designated founding launch window and participate in an eligible first-party campaign (or another clearly defined launch contribution). Define the launch window, verification rules, and capacity before announcing criteria publicly. Playlist Push referral participation must remain optional and separate.
+
+**Suggested page design:** Hero heading “Wall of Founders,” brief gratitude message, searchable or browsable creator cards, and a clear explanation of what Founding Creator means. Consider a distinctive badge design and an invitation to view founders' profiles. Publish profiles only with explicit opt-in and provide an option to remove public recognition.
+
+**Next implementation decisions:** Choose the exact qualification threshold and founding window; define whether the badge is permanent; design the badge and page; add consent and profile visibility controls; add an admin verification workflow; and update launch communications once criteria are finalized.
+
+**Status:** Product concept recorded in documentation; the badge and page have not been built.
